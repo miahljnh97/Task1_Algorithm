@@ -1,0 +1,11 @@
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/obj/Debug/netcoreapp3.1/Task1_Mia-Huljanah.csprojAssemblyReference.cache
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/obj/Debug/netcoreapp3.1/Task1_Mia-Huljanah.AssemblyInfoInputs.cache
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/obj/Debug/netcoreapp3.1/Task1_Mia-Huljanah.AssemblyInfo.cs
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/bin/Debug/netcoreapp3.1/Task1_Mia-Huljanah
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/bin/Debug/netcoreapp3.1/Task1_Mia-Huljanah.deps.json
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/bin/Debug/netcoreapp3.1/Task1_Mia-Huljanah.runtimeconfig.json
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/bin/Debug/netcoreapp3.1/Task1_Mia-Huljanah.runtimeconfig.dev.json
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/bin/Debug/netcoreapp3.1/Task1_Mia-Huljanah.dll
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/bin/Debug/netcoreapp3.1/Task1_Mia-Huljanah.pdb
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/obj/Debug/netcoreapp3.1/Task1_Mia-Huljanah.dll
+/Users/user/Projects/Task1_Mia Huljanah/Task1_Mia-Huljanah/Task1_Mia-Huljanah/obj/Debug/netcoreapp3.1/Task1_Mia-Huljanah.pdb
